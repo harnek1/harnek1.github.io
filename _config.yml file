@@ -1,1 +1,13 @@
+#
+# This file contains configuration flas to customize your site
+#
 
+# Nmae of my site(displayed in the header)
+name: Free TvShows and Movies
+
+# Short bio or description(displayed in the header)
+description: Giveing my users Free Tv Shows and Movies
+
+#
+# my user name is harnek1
+harnek1
